@@ -1,0 +1,18 @@
+torch
+requests
+pandas
+scikit-learn
+numpy
+tensorflow
+
+# Notebook support
+jupyterlab
+ipykernel
+notebook
+nbformat
+nbconvert
+ipywidgets
+
+# Plotting
+matplotlib
+seaborn
